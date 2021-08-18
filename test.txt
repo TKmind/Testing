@@ -1,3 +1,4 @@
 test git
 test add
 test commit
+test push
